@@ -162,33 +162,6 @@ Total: $16.50
 Thank you for your business!
 ```
 
-## Future Enhancements
-
-Potential improvements for future versions:
-- Order history and customer management
-- Nutritional information display
-- Online ordering capability
-- Inventory management
-- Discount and promotion system
-- Multiple payment methods
-- Order scheduling and pickup times
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for improvements. Some areas that could use enhancement:
-- Unit tests
-- GUI interface
-- Database integration
-- API endpoints for web integration
-
-## License
-
-This project is open source and available under the MIT License.
-
----
-
-*Built with ❤️ for sandwich lovers everywhere!*
-
 
 ![Alt text](https://github.com/yourusername/yourrepository/issues/1#issuecomment-123456789)
 ![Screenshot 2025-06-03 154527](https://github.com/user-attachments/assets/ee655502-44a1-49e3-8822-38986783a498)
